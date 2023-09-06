@@ -9,7 +9,7 @@
 
 using namespace std;
 
-//This is a test for commit or stash
+//if you see this comment, this means the commit was successful and that the remote repository hosting this project has updated. 
 
 class student
 {
@@ -18,7 +18,7 @@ public:
     string name;
     int list_grades[5];
     string zack;
-    string lol;
+   
 };
 
 void menu();
