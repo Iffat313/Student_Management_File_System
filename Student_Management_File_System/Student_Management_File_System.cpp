@@ -17,7 +17,8 @@ public:
     string ID;
     string name;
     int list_grades[5];
-
+    string zack;
+    string lol;
 };
 
 void menu();
