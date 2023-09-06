@@ -18,6 +18,7 @@ public:
     string name;
     int list_grades[5];
     string zack;
+    string test;
    
 };
 
